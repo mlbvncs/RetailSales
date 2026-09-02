@@ -1,0 +1,22 @@
+category_id,category_description,department_id
+1,Breakfast Cereals,1
+2,Snacks,1
+3,Canned Goods,1
+4,,1
+5,Frozen Meals,2
+6,Ice Cream,2
+7,Frozen Vegetables,2
+8,Milk,3
+9,Yogurt,3
+10,Cheese,3
+11,Beef,999
+12,Poultry,4
+13,Pork,4
+14,Fruits,5
+15,Vegetables,5
+16,Bread,6
+17,Pastries,6
+18,Fresh Flowers,7
+19,Arrangements,7
+20,Personal Care,8
+21,Vitamins,8

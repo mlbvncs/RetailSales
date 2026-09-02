@@ -1,0 +1,31 @@
+promotion_id,promotion_code,promotion_name,price_reduction_type,promotion_media_type,ad_type,display_type,coupon_type,ad_media_name,display_provider,promotion_cost,promotion_begin_date,promotion_end_date
+1,PROMO-2001,New Year Kickoff,Regular Price,Digital,,Regular Display,No Coupon,Printed Coupon,In-house Marketing,19575.55,2025-03-29,2025-04-16
+2,PROMO-2002,End of Aisle Feature,Temporary Discount,None,Full Page Circular,End Cap,No Coupon,No Coupon,Third-Party Agency,19679.79,2025-03-09,2025-03-27
+3,PROMO-2003,Anniversary Sale,Temporary Discount,Print,Banner,Center Aisle,No Coupon,No Coupon,Third-Party Agency,19228.02,2023-07-27,2023-08-13
+4,PROMO-2004,Flash Sale,Regular Price,Digital,Full Page Circular,Center Aisle,No Coupon,App Coupon,Vendor Sponsored,9353.68,2022-06-09,2022-07-03
+5,PROMO-2005,Weekend Special,Buy 2 Get 1 Free,Digital,TV Commercial,Center Aisle,App Coupon,App Coupon,Third-Party Agency,18495.86,2024-08-18,2024-08-08
+6,PROMO-2006,Stock Up Days,Buy 2 Get 1 Free,Print,,Regular Display,App Coupon,No Coupon,In-house Marketing,13298.24,2023-09-15,2023-10-11
+7,PROMO-2007,Value Week,Temporary Discount,Digital,,End Cap,App Coupon,No Coupon,In-house Marketing,17103.18,2023-08-21,2023-09-18
+8,PROMO-2008,Holiday Savings,Regular Price,Digital,TV Commercial,Center Aisle,App Coupon,No Coupon,In-house Marketing,12274.52,2023-07-24,2023-08-04
+9,PROMO-2009,Grand Opening Sale,Buy 2 Get 1 Free,Television,TV Commercial,Regular Display,App Coupon,Printed Coupon,In-house Marketing,-16087.75,2022-11-06,2022-11-30
+10,PROMO-2010,Back to School,Temporary Discount,Television,,Center Aisle,Printed Coupon,App Coupon,Third-Party Agency,9083.61,2022-03-09,2022-03-22
+11,PROMO-2011,Stock Up Days,Regular Price,Digital,Full Page Circular,Regular Display,Printed Coupon,App Coupon,In-house Marketing,3768.21,2022-12-09,2022-12-18
+12,PROMO-2012,Father's Day Deals,Buy 2 Get 1 Free,Television,,Regular Display,No Coupon,Printed Coupon,Vendor Sponsored,5621.19,2024-03-27,2024-04-14
+13,PROMO-2013,Loyalty Member Discount,Temporary Discount,Digital,,Center Aisle,No Coupon,Printed Coupon,Third-Party Agency,13816.09,2024-12-22,2025-01-21
+14,PROMO-2014,Flash Sale,Regular Price,Digital,,Regular Display,No Coupon,Printed Coupon,Vendor Sponsored,5771.36,2022-03-26,2022-04-01
+15,PROMO-2015,Stock Up Days,Buy 2 Get 1 Free,None,Banner,Regular Display,No Coupon,No Coupon,In-house Marketing,10639.07,2022-07-21,2022-07-11
+16,PROMO-2016,Flash Sale,Temporary Discount,Print,Full Page Circular,End Cap,Printed Coupon,App Coupon,Third-Party Agency,2526.19,2023-01-04,2023-01-17
+17,PROMO-2017,New Year Kickoff,Regular Price,Digital,TV Commercial,End Cap,App Coupon,App Coupon,Third-Party Agency,2292.86,2024-07-02,2024-07-16
+18,PROMO-2018,Fall Harvest Deals,Regular Price,Print,Full Page Circular,Regular Display,App Coupon,Printed Coupon,Third-Party Agency,15395.23,2023-03-21,2023-04-12
+19,PROMO-2019,Black Friday,Temporary Discount,Television,TV Commercial,Center Aisle,Printed Coupon,No Coupon,In-house Marketing,12956.22,2025-03-05,2025-04-02
+20,PROMO-2020,Loyalty Member Discount,Regular Price,Digital,TV Commercial,End Cap,App Coupon,Printed Coupon,In-house Marketing,-7964.58,2023-07-21,2023-08-17
+21,PROMO-2021,Mother's Day Sale,Buy 2 Get 1 Free,Television,,End Cap,Printed Coupon,App Coupon,Third-Party Agency,8156.37,2023-11-13,2023-11-17
+22,PROMO-2022,Holiday Savings,Regular Price,None,Banner,Regular Display,No Coupon,App Coupon,Vendor Sponsored,14450.31,2024-10-04,2024-10-10
+23,PROMO-2023,Back to School,Temporary Discount,Digital,,End Cap,Printed Coupon,App Coupon,Third-Party Agency,12986.54,2022-07-31,2022-08-04
+24,PROMO-2024,Buy One Get One,Buy 2 Get 1 Free,Television,TV Commercial,Center Aisle,No Coupon,App Coupon,Third-Party Agency,14298.31,2022-03-19,2022-04-12
+25,PROMO-2025,Loyalty Member Discount,Buy 2 Get 1 Free,Print,Banner,End Cap,Printed Coupon,No Coupon,Vendor Sponsored,2863.47,2024-10-01,2024-10-19
+26,PROMO-2003,Weekend Special,Regular Price,Digital,,End Cap,No Coupon,No Coupon,In-house Marketing,7624.43,2025-01-01,2025-01-15
+27,PROMO-2027,Grand Opening Sale,Buy 2 Get 1 Free,Television,Banner,Regular Display,App Coupon,Printed Coupon,Third-Party Agency,4224.56,2023-11-28,2023-12-03
+28,PROMO-2028,End of Aisle Feature,Buy 2 Get 1 Free,Print,,Regular Display,App Coupon,App Coupon,In-house Marketing,4265.31,2024-03-09,2024-02-28
+29,PROMO-2029,Buy One Get One,Temporary Discount,Digital,,Regular Display,Printed Coupon,App Coupon,In-house Marketing,7116.06,2023-05-04,2023-05-22
+30,PROMO-2030,Summer Blast,Buy 2 Get 1 Free,Print,Banner,Regular Display,No Coupon,No Coupon,Vendor Sponsored,18831.75,2023-11-23,2023-12-21

@@ -1,0 +1,151 @@
+employee_id,employee_code,employee_name,title,hire_date,employment_status,employment_type,supervisor_id,home_store_id,authorization_level
+1,EMP-1001,Richard Davis,Cashier II,2011-07-08,Medical Leave,Part-Time,,46,Item Void
+2,EMP-1002,James Rodriguez,Cashier II,2022-01-06,Medical Leave,Full-Time,,52,Item Void
+3,EMP-1003,Robert Moore,Cashier II,2017-09-02,Terminated,Part-Time,,46,Standard Operation
+4,EMP-1004,David Garcia,Cashier II,2022-11-13,TERMINATED,Temporary,,26,Standard Operation
+5,EMP-1005,David Miller,Cashier II,2015-06-06,Inactive,Full-Time,,80,Discount Authorization
+6,EMP-1006,Linda Brown,Cashier I,2013-07-01,Terminated,Temporary,,1,Item Void
+7,EMP-1007,Jessica Lopez,Senior Cashier,2010-12-13,Terminated,Temporary,,36,Discount Authorization
+8,EMP-1008,Thomas Rodriguez,Front End Supervisor,2014-02-07,Inactive,Temporary,,17,Standard Operation
+9,EMP-1009,Susan Thomas,Cashier I,2021-10-16,Medical Leave,Part-Time,,88,Standard Operation
+10,EMP-1010,Linda Taylor,Front End Supervisor,2020-04-03,Medical Leave,Temporary,,2,Standard Operation
+11,EMP-1011,Michael Gonzalez,Cashier I,2025-02-13,Medical Leave,Part-Time,5,79,Discount Authorization
+12,EMP-1012,Sarah Rodriguez,Cashier II,2014-03-14,Medical Leave,Part-Time,5,79,Discount Authorization
+13,EMP-1013,Patricia Thomas,Front End Supervisor,2018-03-17,Inactive,Part-Time,6,90,Discount Authorization
+14,EMP-1014,Richard Rodriguez,Front End Supervisor,2018-03-10,Inactive,Temporary,13,17,Item Void
+15,EMP-1015,Barbara Brown,Senior Cashier,2025-05-21,Inactive,Temporary,2,56,Discount Authorization
+16,EMP-1016,John Jones,Front End Supervisor,,Active,Full-Time,1,54,Discount Authorization
+17,EMP-1017,Thomas Moore,Senior Cashier,2013-01-06,Terminated,Part-Time,5,33,Item Void
+18,EMP-1018,Maria Gonzalez,Cashier I,2022-09-26,Inactive,Full-Time,16,28,Discount Authorization
+19,EMP-1019,Linda Anderson,Senior Cashier,2020-09-08,Medical Leave,Part-Time,17,47,Item Void
+20,EMP-1020,David Lopez,Cashier I,2022-07-03,Terminated,Full-Time,11,45,Item Void
+21,EMP-1021,Michael Jackson,Cashier II,2023-08-01,Medical Leave,Part-Time,4,42,Item Void
+22,EMP-1022,Jessica Anderson,Cashier I,2021-06-13,Terminated,Temporary,,37,Discount Authorization
+23,EMP-1023,John Garcia,Senior Cashier,2024-03-02,Terminated,Temporary,,79,Item Void
+24,EMP-1024,Robert Williams,Cashier II,2019-01-29,Medical Leave,Full-Time,5,41,Discount Authorization
+25,EMP-1025,Elizabeth Rodriguez,Front End Supervisor,2024-08-24,Medical Leave,Part-Time,2,100,Discount Authorization
+26,EMP-1026,Thomas Anderson,Front End Supervisor,2023-03-02,Inactive,Full-Time,23,3,Standard Operation
+27,EMP-1027,David Williams,Cashier II,2015-04-07,Inactive,Part-Time,,14,Standard Operation
+28,EMP-1028,Jessica Moore,Cashier I,2011-06-07,Active,Part-Time,10,68,Standard Operation
+29,EMP-1029,David Martin,Cashier II,2012-05-01,Active,Temporary,,50,Discount Authorization
+30,EMP-1030,Barbara Martinez,Front End Supervisor,2015-02-22,Inactive,Full-Time,20,68,Standard Operation
+31,EMP-1031,Maria Lopez,Senior Cashier,2010-08-23,Terminated,Part-Time,9999,70,Discount Authorization
+32,EMP-1032,Joseph Jones,Cashier II,2022-04-21,Terminated,Temporary,29,96,Item Void
+33,EMP-1033,Susan Taylor,Senior Cashier,2022-08-26,Medical Leave,Part-Time,20,70,Standard Operation
+34,EMP-1034,Joseph Martinez,Senior Cashier,2012-01-04,Terminated,Part-Time,20,20,Discount Authorization
+35,EMP-1035,James Taylor,Cashier II,2010-03-28,Medical Leave,Part-Time,14,61,Item Void
+36,EMP-1036,Jessica Thomas,Senior Cashier,2010-03-10,Active,Part-Time,13,38,Item Void
+37,EMP-1037,James Moore,Senior Cashier,2015-03-10,Inactive,Part-Time,35,72,Discount Authorization
+38,EMP-1038,Barbara Garcia,Front End Supervisor,2018-11-08,Terminated,Full-Time,29,34,Standard Operation
+39,EMP-1039,Barbara Taylor,Senior Cashier,2019-06-21,Medical Leave,Temporary,18,96,Item Void
+40,EMP-1040,Susan Miller,Cashier I,2016-01-12,Inactive,Full-Time,18,38,Standard Operation
+41,EMP-1041,Joseph Martin,Front End Supervisor,2024-04-14,Medical Leave,Temporary,40,80,Discount Authorization
+42,EMP-1042,William Smith,Cashier II,2014-03-19,Active,Temporary,7,3,Standard Operation
+43,EMP-1043,Elizabeth Rodriguez,Cashier II,2012-04-17,Terminated,Temporary,23,2,Standard Operation
+44,EMP-1044,John Smith,Front End Supervisor,2012-01-09,Inactive,Part-Time,18,54,Discount Authorization
+45,EMP-1045,Jennifer Anderson,Cashier I,2021-03-06,MEDICAL LEAVE,Full-Time,19,97,Standard Operation
+46,EMP-1046,David Gonzalez,Cashier I,2011-04-05,Terminated,Full-Time,11,25,Discount Authorization
+47,EMP-1047,James Brown,Cashier II,2018-07-23,Terminated,Part-Time,40,32,Item Void
+48,EMP-1048,Michael Anderson,Cashier I,2010-10-02,Inactive,Part-Time,,50,Item Void
+49,EMP-1049,William Garcia,Cashier I,2016-12-31,Active,Part-Time,4,62,Item Void
+50,EMP-1050,Michael Lopez,Cashier I,2016-09-13,Inactive,Full-Time,31,31,Item Void
+51,EMP-1051,William Smith,Cashier II,2019-09-27,Medical Leave,Temporary,,16,Discount Authorization
+52,EMP-1052,James Johnson,Front End Supervisor,2015-06-15,Inactive,Part-Time,25,99,Standard Operation
+53,EMP-1053,Patricia Thomas,Cashier I,2015-07-31,Medical Leave,Temporary,28,8,Standard Operation
+54,EMP-1054,John Moore,Cashier I,2017-12-22,Inactive,Part-Time,46,30,Discount Authorization
+55,EMP-1055,Jennifer Anderson,Cashier II,2022-07-11,Active,Temporary,38,49,Discount Authorization
+56,EMP-1056,David Johnson,Front End Supervisor,,Terminated,Temporary,45,38,Item Void
+57,EMP-1057,Jessica Miller,Cashier II,2025-08-20,Medical Leave,Part-Time,40,94,Discount Authorization
+58,EMP-1058,Karen Moore,Cashier II,2016-03-05,Active,Temporary,22,20,Discount Authorization
+59,EMP-1059,David Moore,Senior Cashier,2016-08-19,Terminated,Full-Time,,100,Item Void
+60,EMP-1060,Richard Garcia,Cashier I,2021-05-07,Medical Leave,Temporary,43,31,Discount Authorization
+61,EMP-1061,Sarah Gonzalez,Cashier II,2011-06-03,Terminated,Temporary,61,20,Item Void
+62,EMP-1062,William Wilson,Senior Cashier,2016-05-08,Active,Full-Time,60,67,Item Void
+63,EMP-1063,Maria Jones,Cashier II,2011-07-01,Active,Full-Time,30,14,Discount Authorization
+64,EMP-1064,Linda Johnson,Front End Supervisor,2014-04-19,Terminated,Temporary,6,80,Item Void
+65,EMP-1065,David Johnson,Senior Cashier,2023-03-29,Inactive,Temporary,,92,Standard Operation
+66,EMP-1066,Michael Thomas,Cashier I,2010-04-18,Terminated,Temporary,,8,Discount Authorization
+67,EMP-1067,Susan Lopez,Cashier I,2022-07-08,Medical Leave,Temporary,59,6,Item Void
+68,EMP-1068,Elizabeth Williams,Cashier II,2011-07-31,Active,Full-Time,60,93,Standard Operation
+69,EMP-1069,Richard Miller,Cashier II,2021-12-04,Inactive,Temporary,29,81,Standard Operation
+70,EMP-1070,Sarah Wilson,Cashier I,2022-07-11,Medical Leave,Temporary,34,59,Item Void
+71,EMP-1071,Susan Brown,Cashier II,2024-12-02,Inactive,Temporary,,9999,Item Void
+72,EMP-1072,Patricia Moore,Front End Supervisor,2017-07-27,Medical Leave,Part-Time,43,71,Discount Authorization
+73,EMP-1073,Susan Wilson,Senior Cashier,2018-05-04,Inactive,Temporary,42,70,Standard Operation
+74,EMP-1074,Sarah Rodriguez,Senior Cashier,2018-05-31,Terminated,Part-Time,4,51,Standard Operation
+75,EMP-1075,Elizabeth Martin,Cashier I,2010-10-11,Inactive,Part-Time,15,1,Discount Authorization
+76,EMP-1076,Michael Hernandez,Cashier I,2014-12-23,Medical Leave,Temporary,60,66,Item Void
+77,EMP-1077,Charles Jones,Cashier I,2022-10-19,Active,Part-Time,,46,Standard Operation
+78,EMP-1078,David Lopez,Cashier II,2013-02-07,INACTIVE,Part-Time,45,39,Standard Operation
+79,EMP-1079,Richard Jackson,Cashier II,2022-10-18,Active,Temporary,17,42,Discount Authorization
+80,EMP-1080,Jessica Jackson,Cashier I,2013-11-17,Medical Leave,Full-Time,52,94,Item Void
+81,EMP-1081,Robert Johnson,Senior Cashier,2018-07-23,Medical Leave,Part-Time,,54,Standard Operation
+82,EMP-1082,Karen Smith,Front End Supervisor,2015-02-01,Active,Part-Time,42,68,Standard Operation
+83,EMP-1083,Sarah Jackson,Cashier II,2017-02-28,Medical Leave,Temporary,10,90,Standard Operation
+84,EMP-1084,Maria Gonzalez,Front End Supervisor,2013-06-08,Active,Full-Time,69,56,Discount Authorization
+85,EMP-1085,John Jones,Senior Cashier,2018-11-05,Active,Part-Time,76,74,Item Void
+86,EMP-1086,Sarah Gonzalez,Senior Cashier,2011-02-08,Active,Part-Time,80,65,Discount Authorization
+87,EMP-1087,John Jones,Front End Supervisor,2025-08-26,Inactive,Part-Time,21,51,Item Void
+88,EMP-1088,Michael Moore,Cashier II,2022-10-25,Inactive,Full-Time,,35,Discount Authorization
+89,EMP-1089,Charles Williams,Cashier I,2017-04-03,Terminated,Part-Time,44,47,Discount Authorization
+90,EMP-1090,William Lopez,Cashier I,2014-04-10,Medical Leave,Full-Time,89,45,Item Void
+91,EMP-1091,Karen Jones,Front End Supervisor,2019-12-02,Active,Full-Time,9999,26,Item Void
+92,EMP-1092,John Williams,Cashier I,2018-05-21,Active,Full-Time,44,80,Standard Operation
+93,EMP-1093,James Hernandez,Cashier I,2016-06-14,Medical Leave,Part-Time,31,61,Standard Operation
+94,EMP-1094,Michael Moore,Cashier II,2017-06-11,Inactive,Temporary,86,67,Discount Authorization
+95,EMP-1095,Jessica Martin,Cashier II,2022-04-23,Active,Part-Time,92,75,Item Void
+96,EMP-1096,Maria Rodriguez,Cashier II,2021-10-25,Active,Part-Time,63,26,Item Void
+97,EMP-1097,David Johnson,Front End Supervisor,2023-11-11,Active,Full-Time,77,50,Item Void
+98,EMP-1098,Jennifer Brown,Cashier I,2016-02-01,Medical Leave,Temporary,72,50,Standard Operation
+99,EMP-1099,Thomas Brown,Senior Cashier,2018-07-16,Terminated,Temporary,57,69,Standard Operation
+100,EMP-1100,Michael Taylor,Front End Supervisor,,Active,Full-Time,52,32,Item Void
+101,EMP-1101,William Thomas,Front End Supervisor,2016-11-02,Inactive,Full-Time,14,45,Item Void
+102,EMP-1102,Jennifer Martinez,Cashier II,2017-11-22,Medical Leave,Full-Time,77,81,Discount Authorization
+103,EMP-1103,James Moore,Senior Cashier,2018-09-07,Inactive,Full-Time,49,44,Discount Authorization
+104,EMP-1104,John Williams,Front End Supervisor,2024-09-25,Inactive,Part-Time,83,31,Item Void
+105,EMP-1105,Susan Martinez,Senior Cashier,2013-06-05,Terminated,Temporary,12,17,Standard Operation
+106,EMP-1106,John Jackson,Cashier II,2024-08-20,Inactive,Part-Time,18,89,Item Void
+107,EMP-1107,John Wilson,Cashier II,2021-10-01,Inactive,Part-Time,,9,Item Void
+108,EMP-1108,Linda Garcia,Senior Cashier,2021-12-15,Inactive,Temporary,,4,Discount Authorization
+109,EMP-1109,Susan Martinez,Front End Supervisor,2019-04-15,Medical Leave,Full-Time,1,100,Standard Operation
+110,EMP-1110,John Garcia,Cashier I,2012-05-24,Medical Leave,Temporary,85,73,Item Void
+111,EMP-1111,Karen Davis,Cashier II,2015-03-07,Active,Part-Time,69,11,Item Void
+112,EMP-1112,John Taylor,Front End Supervisor,2020-09-09,Medical Leave,Full-Time,79,50,Discount Authorization
+113,EMP-1113,John Garcia,Cashier II,2020-08-17,Inactive,Full-Time,26,53,Standard Operation
+114,EMP-1114,Susan Davis,Cashier II,2016-01-20,Inactive,Full-Time,113,23,Discount Authorization
+115,EMP-1115,Jessica Hernandez,Front End Supervisor,2023-11-03,Inactive,Part-Time,73,52,Standard Operation
+116,EMP-1116,Richard Hernandez,Front End Supervisor,2023-08-21,Active,Temporary,87,14,Discount Authorization
+117,EMP-1117,Maria Davis,Front End Supervisor,2020-03-31,Active,Temporary,56,50,Item Void
+118,EMP-1118,Maria Miller,Senior Cashier,2024-02-23,Terminated,Part-Time,45,39,Discount Authorization
+119,EMP-1119,Patricia Wilson,Senior Cashier,2020-05-07,Active,Temporary,,67,Standard Operation
+120,EMP-1120,Joseph Williams,Cashier I,2020-05-25,Inactive,Temporary,79,90,Item Void
+121,EMP-1006,Richard Wilson,Senior Cashier,2013-01-13,Terminated,Full-Time,,23,Discount Authorization
+122,EMP-1122,Michael Anderson,Cashier I,2023-03-29,Medical Leave,Part-Time,17,89,Item Void
+123,EMP-1123,Linda Williams,Cashier I,2013-09-05,Terminated,Temporary,,47,Standard Operation
+124,EMP-1124,Richard Taylor,Cashier II,2021-10-01,Terminated,Temporary,116,49,Standard Operation
+125,EMP-1125,William Jackson,Cashier II,2013-10-31,Inactive,Full-Time,7,23,Item Void
+126,EMP-1126,Susan Martinez,Senior Cashier,2011-02-25,Terminated,Part-Time,72,81,Standard Operation
+127,EMP-1127,John Miller,Cashier I,2012-08-21,Medical Leave,Full-Time,,59,Discount Authorization
+128,EMP-1128,Sarah Smith,Front End Supervisor,2021-03-08,Inactive,Full-Time,111,76,Item Void
+129,EMP-1129,Joseph Wilson,Front End Supervisor,2020-09-02,Active,Temporary,8,77,Standard Operation
+130,EMP-1130,Sarah Rodriguez,Cashier II,2015-06-28,Active,Full-Time,101,19,Standard Operation
+131,EMP-1131,Jennifer Johnson,Cashier II,2024-08-26,Active,Temporary,98,74,Item Void
+132,EMP-1132,William Williams,Cashier I,2016-09-10,Active,Part-Time,112,23,Standard Operation
+133,EMP-1133,Elizabeth Martin,Cashier II,2025-01-27,Terminated,Temporary,45,75,Discount Authorization
+134,EMP-1134,Robert Martinez,Senior Cashier,2010-10-21,Medical Leave,Part-Time,49,9,Discount Authorization
+135,EMP-1135,Robert Martinez,Front End Supervisor,2022-05-07,Inactive,Full-Time,93,89,Discount Authorization
+136,EMP-1136,Thomas Wilson,Cashier II,2017-05-20,Inactive,Temporary,,8,Standard Operation
+137,EMP-1137,Thomas Williams,Front End Supervisor,2022-10-25,Medical Leave,Part-Time,33,78,Discount Authorization
+138,EMP-1138,Thomas Jackson,Senior Cashier,2015-10-29,Inactive,Temporary,19,73,Discount Authorization
+139,EMP-1139,Jessica Thomas,Cashier II,2021-08-28,Inactive,Temporary,37,38,Standard Operation
+140,EMP-1140,Linda Smith,Front End Supervisor,2010-01-13,Active,Temporary,125,27,Item Void
+141,EMP-1141,Susan Johnson,Senior Cashier,2019-04-20,Medical Leave,Temporary,35,9999,Standard Operation
+142,EMP-1142,Michael Martinez,Senior Cashier,2010-04-03,Active,Part-Time,107,39,Item Void
+143,EMP-1143,William Smith,Cashier I,2022-05-03,Medical Leave,Part-Time,,51,Item Void
+144,EMP-1144,Karen Smith,Cashier II,2022-10-05,Inactive,Part-Time,,44,Item Void
+145,EMP-1145,Jessica Johnson,Cashier II,2020-09-29,Terminated,Full-Time,109,81,Discount Authorization
+146,EMP-1146,William Anderson,Front End Supervisor,2022-01-16,Active,Temporary,117,39,Item Void
+147,EMP-1147,William Moore,Cashier I,2025-03-18,Inactive,Temporary,142,88,Discount Authorization
+148,EMP-1148,Robert Jones,Senior Cashier,2017-12-06,Active,Part-Time,,49,Item Void
+149,EMP-1149,Patricia Jackson,Front End Supervisor,2021-12-25,Inactive,Temporary,58,15,Discount Authorization
+150,EMP-1150,William Johnson,Senior Cashier,2025-10-26,Terminated,Full-Time,2,64,Standard Operation

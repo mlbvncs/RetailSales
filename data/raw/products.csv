@@ -1,0 +1,201 @@
+product_id,sku_number,product_description,brand_id,subcategory_id,package_type_description,package_size,fat_content,diet_type,weight,weight_unit_of_measure,storage_type,shelf_life_type,shelf_width,shelf_height,shelf_depth,unit_cost
+1,SKU-100001,Sugar Free Flower Bouquet,10,22,Bottle,1kg,Whole,Vegan,1372.84,Grams,Frozen,Long Life,28.2,9.5,29.8,3.0
+2,SKU-100002,Whole Grain Chicken Breast,6,42,Tub,500g,,Vegan,1139.9,g,Refrigerated,Non-Perishable,11.3,12.5,38.2,14.84
+3,SKU-100003,Family Size Chicken Breast,,7,Carton,1kg,,Sugar Free,491.76,Grams,Frozen,Perishable,25.9,10.4,11.3,
+4,SKU-100004,Family Size Milk Carton,,24,Tub,Twin Pack,Whole,Lactose Free,1268.24,kg,Refrigerated,Long Life,32.4,13.2,13.4,28.99
+5,SKU-100005,Diet Frozen Pizza,29,30,Box,500g,,,1579.52,gr,Ambient,Perishable,33.0,9.8,13.8,19.41
+6,SKU-100006,Deluxe Ground Beef,8,19,Bottle,Family Size,Light,Lactose Free,-1754.53,kg,Ambient,Non-Perishable,8.2,36.9,33.6,26.6
+7,SKU-100007,Original Yogurt,24,16,Can,Single,Light,Gluten Free,1864.42,g,Refrigerated,Perishable,34.4,27.7,32.7,4.56
+8,SKU-100008,Light Chicken Breast,31,29,Carton,Single,Skimmed,Sugar Free,609.41,Grams,Ambient,Perishable,24.2,30.5,23.5,3.78
+9,SKU-100009,Sugar Free Ground Beef,,27,Tub,1kg,Non-Fat,Sugar Free,611.8,g,Refrigerated,Long Life,23.8,27.1,25.1,21.7
+10,SKU-100010,Classic Coffee Bag,27,12,Tub,Twin Pack,Skimmed,,617.98,Grams,Ambient,Long Life,24.0,32.5,22.8,1.1
+11,SKU-100011,Classic Canned Corn,17,2,Box,Single,Light,Gluten Free,1753.0,g,Frozen,Long Life,31.5,9.7,17.3,10.49
+12,SKU-100012,Light Pasta Box,9,5,Tub,500g,Skimmed,Vegan,1303.45,G,Ambient,Perishable,36.0,16.0,15.9,12.25
+13,SKU-100013,Light Flower Bouquet,,42,Bag,350ml,Light,Sugar Free,1640.04,Grams,Refrigerated,Perishable,33.0,20.3,19.0,13.47
+14,SKU-100014,Whole Grain Apples,32,24,Carton,350ml,Skimmed,Lactose Free,1915.13,g,Refrigerated,Long Life,39.8,11.3,15.3,3.53
+15,SKU-100015,Sugar Free Vitamin C Tablets,28,11,Tub,500g,Light,Lactose Free,689.44,g,Frozen,Non-Perishable,26.5,20.2,27.4,23.85
+16,SKU-100016,Original Frozen Pizza,11,2,Bag,1kg,Non-Fat,Sugar Free,161.85,G,Ambient,Perishable,32.2,17.8,18.4,17.23
+17,SKU-100017,Light Frozen Pizza,5,37,Bag,1kg,Light,Lactose Free,1229.93,Grams,Frozen,Non-Perishable,13.7,9.0,30.7,15.22
+18,SKU-100018,Deluxe Ground Beef,17,29,Bag,1kg,Light,Lactose Free,804.63,G,Ambient,Perishable,34.8,20.8,36.5,13.63
+19,SKU-100019,Whole Grain Frozen Pizza,19,20,Bag,Twin Pack,Whole,Vegan,221.19,kg,Ambient,Perishable,39.5,32.7,13.3,15.07
+20,SKU-100020,Fresh Frozen Pizza,9,40,Bottle,Single,Light,Lactose Free,753.75,gr,Frozen,Non-Perishable,31.9,33.8,7.6,29.19
+21,SKU-100021,Light Milk Carton,23,9999,Carton,Twin Pack,,Gluten Free,1302.56,G,Refrigerated,Long Life,36.9,6.9,9.3,5.01
+22,SKU-100022,Whole Grain Bread Loaf,19,6,Box,Family Size,,Vegan,371.08,G,Frozen,Non-Perishable,26.5,8.3,27.4,17.96
+23,SKU-100023,Family Size Coffee Bag,22,37,Bottle,Single,Skimmed,Sugar Free,1182.26,kg,Refrigerated,Long Life,12.4,25.0,26.6,1.39
+24,SKU-100024,Deluxe Vitamin C Tablets,20,31,Bag,Twin Pack,Non-Fat,Vegan,1783.54,gr,Ambient,Long Life,7.1,20.4,21.9,6.52
+25,SKU-100025,Whole Grain Ice Cream Tub,23,26,Bag,350ml,,,1232.99,g,Refrigerated,Perishable,21.3,14.4,13.7,3.36
+26,SKU-100026,Original Coffee Bag,11,21,Carton,Twin Pack,Light,Gluten Free,615.91,G,Refrigerated,Long Life,21.3,35.8,22.4,3.16
+27,SKU-100027,Light Bread Loaf,23,4,Bottle,350ml,Non-Fat,,816.82,gr,Refrigerated,Long Life,5.3,8.8,9.7,8.3
+28,SKU-100028,Original Frozen Pizza,,4,Carton,1kg,Whole,Vegan,763.27,kg,Refrigerated,Perishable,18.5,20.8,24.2,24.85
+29,SKU-100029,Fresh Ground Beef,7,26,Box,350ml,,Vegan,1265.32,G,Ambient,Long Life,22.8,22.5,6.6,4.54
+30,SKU-100030,Light Rice Bag,9,21,Carton,350ml,Whole,Lactose Free,699.43,kg,Frozen,Non-Perishable,25.8,22.8,22.8,14.95
+31,SKU-100031,Light Cereal,8,27,Carton,350ml,Skimmed,,1147.7,gr,Refrigerated,Long Life,32.4,32.2,25.2,21.78
+32,SKU-100032,Family Size Rice Bag,25,10,Tub,Family Size,Skimmed,,1187.87,g,Ambient,Perishable,20.4,19.7,19.5,6.51
+33,SKU-100033,Fresh Pasta Box,4,9,Carton,Family Size,,Vegan,1028.55,gr,Frozen,Non-Perishable,16.0,11.1,36.9,10.6
+34,SKU-100034,Sugar Free Coffee Bag,16,18,Carton,350ml,Whole,Vegan,740.86,Grams,Frozen,Perishable,29.2,22.1,21.8,17.03
+35,SKU-100035,Sugar Free Vitamin C Tablets,25,26,Box,Family Size,Light,Sugar Free,1872.25,Grams,Frozen,Perishable,17.1,20.5,14.0,14.63
+36,SKU-100036,Deluxe Flower Bouquet,18,9,Bottle,1kg,,Gluten Free,444.03,G,Ambient,Long Life,36.7,12.9,13.1,3.46
+37,SKU-100037,Light Ground Beef,9,1,Carton,Family Size,Non-Fat,Lactose Free,694.07,gr,Frozen,Perishable,31.5,15.1,15.0,2.25
+38,SKU-100038,Fresh Bread Loaf,3,12,Can,Family Size,Skimmed,Lactose Free,1549.01,gr,Ambient,Long Life,38.7,37.4,35.7,0.77
+39,SKU-100039,Organic Ice Cream Tub,32,9,Carton,500g,Light,Gluten Free,1157.53,g,Refrigerated,Perishable,30.6,27.7,30.2,0.92
+40,SKU-100040,Sugar Free Chips Bag,13,12,Carton,Twin Pack,Non-Fat,Lactose Free,707.37,kg,Refrigerated,Perishable,19.0,8.3,39.4,14.58
+41,SKU-100041,Classic Flower Bouquet,29,18,Box,350ml,,,1874.86,g,Refrigerated,Long Life,17.6,13.3,28.4,
+42,SKU-100042,Deluxe Vitamin C Tablets,19,24,Carton,Family Size,Whole,Gluten Free,361.45,gr,Ambient,Non-Perishable,31.2,26.2,19.6,16.7
+43,SKU-100043,Deluxe Bananas,6,34,Can,1kg,Light,Sugar Free,968.11,kg,Ambient,Perishable,34.0,36.6,12.1,16.33
+44,SKU-100044,Deluxe Milk Carton,14,38,Can,Single,,Lactose Free,370.85,g,Refrigerated,Perishable,23.0,21.0,7.0,14.14
+45,SKU-100045,Classic Canned Corn,1,14,Carton,Single,Skimmed,Lactose Free,1623.48,Grams,Frozen,Perishable,23.9,7.1,36.3,29.59
+46,SKU-100046,Sugar Free Soda Pack,9,42,Tub,Twin Pack,Non-Fat,Vegan,970.54,gr,Refrigerated,Non-Perishable,18.1,28.9,28.2,16.41
+47,SKU-100047,Whole Grain Ground Beef,26,34,Bag,Twin Pack,Whole,Sugar Free,1324.39,g,Refrigerated,Non-Perishable,28.6,24.1,23.6,24.79
+48,SKU-100048,Whole Grain Chicken Breast,8,3,Tub,500g,,Sugar Free,532.65,G,Ambient,Perishable,8.5,6.2,25.9,21.25
+49,SKU-100049,Classic Canned Corn,14,4,Bag,1kg,Light,Gluten Free,144.92,kg,Refrigerated,Long Life,25.9,28.5,16.2,9.4
+50,SKU-100050,Deluxe Bread Loaf,18,4,Carton,1kg,Whole,Lactose Free,329.36,kg,Refrigerated,Perishable,39.0,38.0,28.5,23.68
+51,SKU-100051,Original Soda Pack,25,12,Carton,500g,Whole,Gluten Free,671.53,Grams,Frozen,Perishable,33.2,37.0,24.7,29.05
+52,SKU-100052,Family Size Canned Corn,14,22,Tub,Single,Non-Fat,Vegan,1136.71,g,Frozen,Long Life,34.0,6.8,18.2,18.35
+53,SKU-100053,Organic Bananas,14,31,Bag,350ml,Light,Sugar Free,127.12,G,Ambient,Long Life,9.1,40.0,21.8,7.66
+54,SKU-100054,Diet Canned Corn,21,19,Can,500g,,Vegan,1228.58,Grams,Refrigerated,Non-Perishable,22.9,22.4,8.5,29.45
+55,SKU-100055,Whole Grain Bananas,27,3,Carton,Family Size,Whole,Sugar Free,965.51,Grams,Frozen,Long Life,25.3,19.6,10.3,10.23
+56,SKU-100056,Diet Pasta Box,22,17,Can,Twin Pack,Non-Fat,Lactose Free,790.69,G,Frozen,Non-Perishable,10.9,30.2,22.1,27.55
+57,SKU-100057,Classic Rice Bag,,5,Tub,Single,Skimmed,Lactose Free,1107.17,G,Frozen,Perishable,7.4,10.3,12.7,13.95
+58,SKU-100058,Fresh Pasta Box,2,1,Carton,1kg,Non-Fat,Sugar Free,167.88,g,Frozen,Long Life,14.6,39.2,5.6,24.49
+59,SKU-100059,Family Size Ground Beef,10,16,Bag,1kg,,Vegan,1364.36,Grams,Refrigerated,Non-Perishable,7.8,38.6,21.1,7.67
+60,SKU-100060,Sugar Free Cheese Block,3,6,Can,500g,Non-Fat,,1409.61,gr,Ambient,Long Life,5.3,11.0,22.5,13.3
+61,SKU-100061,Fresh Ground Beef,3,15,Bag,Twin Pack,,Lactose Free,-1579.53,Grams,Ambient,Perishable,29.0,14.8,24.0,19.91
+62,SKU-100062,Whole Grain Cereal,10,26,Bottle,350ml,Whole,,399.74,G,Frozen,Non-Perishable,28.7,23.9,18.4,22.32
+63,SKU-100063,Organic Rice Bag,23,4,Bottle,500g,Whole,Sugar Free,1591.47,Grams,Frozen,Long Life,38.4,18.9,32.1,1.37
+64,SKU-100064,Light Pasta Box,25,28,Bag,Twin Pack,,Lactose Free,582.99,g,Frozen,Non-Perishable,32.9,30.0,7.9,5.05
+65,SKU-100065,Family Size Canned Corn,7,6,Bottle,350ml,Non-Fat,Vegan,1437.77,Grams,Ambient,Perishable,8.1,20.1,24.5,15.62
+66,SKU-100066,Organic Frozen Pizza,21,25,Bottle,350ml,Non-Fat,Lactose Free,251.42,g,Frozen,Long Life,36.7,39.2,25.0,5.5
+67,SKU-100067,Family Size Flower Bouquet,32,10,Bottle,Family Size,Non-Fat,Vegan,792.43,gr,Refrigerated,Non-Perishable,32.4,17.6,38.0,21.77
+68,SKU-100068,Fresh Bananas,9,20,Bottle,500g,Light,,1016.81,gr,Refrigerated,Non-Perishable,16.7,33.5,35.1,29.24
+69,SKU-100069,Whole Grain Coffee Bag,13,31,Box,Family Size,Non-Fat,Vegan,315.44,Grams,Frozen,Long Life,27.2,38.9,32.4,10.11
+70,SKU-100070,Original Frozen Pizza,13,38,Carton,Family Size,,Sugar Free,596.59,gr,Frozen,Perishable,20.3,15.2,29.2,24.66
+71,SKU-100071,Original Pasta Box,20,16,Box,Twin Pack,Whole,Lactose Free,1601.53,gr,Ambient,Non-Perishable,39.7,21.8,19.0,15.45
+72,SKU-100072,Original Cookies Pack,,24,Tub,1kg,,Sugar Free,1844.76,g,Ambient,Long Life,28.3,10.8,26.4,17.11
+73,SKU-100073,Original Ice Cream Tub,28,7,Bottle,Single,Light,Gluten Free,1307.81,kg,Frozen,Long Life,24.5,29.1,12.7,11.54
+74,SKU-100074,Fresh Rice Bag,2,31,Bottle,350ml,Non-Fat,Sugar Free,952.97,g,Frozen,Perishable,17.2,17.0,32.4,15.87
+75,SKU-100075,Organic Milk Carton,29,21,Bottle,350ml,Skimmed,Sugar Free,729.19,g,Refrigerated,Long Life,8.8,33.0,37.5,22.34
+76,SKU-100076,Deluxe Apples,28,30,Bag,500g,Whole,Gluten Free,1056.19,gr,Refrigerated,Perishable,30.8,35.9,20.7,
+77,SKU-100077,Diet Bananas,5,37,Bottle,1kg,Whole,Vegan,58.68,Grams,Ambient,Non-Perishable,9.0,28.5,22.1,28.99
+78,SKU-100078,Original Coffee Bag,8,23,Box,500g,,Gluten Free,661.14,Grams,Frozen,Long Life,8.0,9.7,9.1,9.51
+79,SKU-100079,Family Size Rice Bag,9,37,Can,500g,Whole,Lactose Free,406.94,kg,Frozen,Long Life,37.6,11.1,10.8,9.02
+80,SKU-100080,Light Coffee Bag,,23,Bottle,500g,Whole,Gluten Free,414.84,gr,Frozen,Long Life,27.9,19.3,22.2,21.45
+81,SKU-100081,Family Size Cheese Block,15,19,Bottle,350ml,Whole,,915.51,Grams,Ambient,Non-Perishable,24.8,32.0,22.3,15.57
+82,SKU-100082,Sugar Free Cookies Pack,24,35,Bottle,Twin Pack,Non-Fat,,1166.79,G,Refrigerated,Perishable,30.8,27.9,13.7,26.31
+83,SKU-100083,Sugar Free Frozen Pizza,6,29,Bottle,Family Size,Whole,,112.85,Grams,Frozen,Long Life,27.1,10.8,9.9,6.6
+84,SKU-100084,Classic Chips Bag,18,39,Carton,Family Size,Light,Vegan,453.54,Grams,Frozen,Non-Perishable,38.3,23.0,36.5,24.55
+85,SKU-100085,Original Yogurt,9,9,Bag,Family Size,Light,Gluten Free,314.4,gr,Refrigerated,Perishable,25.2,14.4,19.5,13.83
+86,SKU-100086,Organic Canned Corn,18,24,Can,500g,Light,,1285.57,g,Frozen,Perishable,30.6,21.0,28.2,11.07
+87,SKU-100087,Deluxe Canned Corn,28,14,Can,350ml,Light,Vegan,173.49,Grams,Frozen,Long Life,9.6,34.8,32.6,26.88
+88,SKU-100088,Classic Ground Beef,30,2,Bottle,Family Size,Non-Fat,Lactose Free,1536.4,g,Refrigerated,Perishable,39.8,36.8,35.9,9.41
+89,SKU-100089,Sugar Free Cheese Block,17,6,Box,Twin Pack,Whole,Sugar Free,1755.13,gr,Frozen,Non-Perishable,30.4,31.4,20.0,3.19
+90,SKU-100090,Diet Pasta Box,,38,Bag,1kg,Non-Fat,Sugar Free,235.61,g,Frozen,Non-Perishable,33.6,39.6,19.8,4.4
+91,SKU-100091,Original Cheese Block,7,7,Box,350ml,Light,Gluten Free,188.12,gr,Ambient,Long Life,39.8,10.0,23.6,0.75
+92,SKU-100092,Light Frozen Pizza,10,27,Carton,Twin Pack,Non-Fat,Gluten Free,1317.54,g,Ambient,Perishable,31.3,25.6,18.4,28.92
+93,SKU-100093,Family Size Bread Loaf,6,16,Carton,1kg,,,663.28,Grams,Frozen,Perishable,34.7,28.0,15.6,15.77
+94,SKU-100094,Original Vitamin C Tablets,16,32,Can,Single,Whole,Lactose Free,1043.57,kg,Ambient,Long Life,36.1,5.4,17.6,9.84
+95,SKU-100095,Fresh Soda Pack,12,31,Bottle,Single,,Sugar Free,804.33,g,Refrigerated,Perishable,6.4,7.1,32.6,15.45
+96,SKU-100096,Deluxe Soda Pack,26,6,Tub,1kg,,,1275.71,G,Refrigerated,Perishable,15.8,22.9,12.1,24.34
+97,SKU-100097,Original Chips Bag,5,20,Tub,500g,Whole,Sugar Free,1095.96,G,Ambient,Non-Perishable,9.1,26.4,6.9,20.15
+98,SKU-100098,Family Size Ground Beef,,9,Tub,Single,Whole,Lactose Free,1333.2,Grams,Frozen,Long Life,32.4,30.2,10.8,4.24
+99,SKU-100099,Sugar Free Ground Beef,2,22,Can,350ml,,Sugar Free,1573.19,Grams,Frozen,Long Life,27.0,22.4,22.9,2.14
+100,SKU-100011,Family Size Frozen Pizza,7,37,Tub,Twin Pack,Skimmed,Gluten Free,1725.75,kg,Ambient,Perishable,35.1,5.4,6.6,11.24
+101,SKU-100101,Family Size Yogurt,27,15,Box,Family Size,Non-Fat,Vegan,1844.44,Grams,Ambient,Long Life,18.0,22.6,36.6,5.79
+102,SKU-100102,Classic Canned Corn,,30,Box,350ml,Light,Sugar Free,1618.46,kg,Refrigerated,Perishable,17.9,15.2,32.5,22.32
+103,SKU-100103,Whole Grain Chips Bag,13,35,Bag,Family Size,Skimmed,Lactose Free,523.04,g,Ambient,Long Life,17.1,34.4,35.7,28.55
+104,SKU-100104,Original Vitamin C Tablets,16,27,Can,Single,Whole,Vegan,52.85,g,Ambient,Perishable,36.4,23.2,29.5,11.49
+105,SKU-100105,Organic Chips Bag,,9,Tub,500g,Skimmed,,1950.38,kg,Ambient,Non-Perishable,28.2,9.6,15.2,25.6
+106,SKU-100106,Original Ice Cream Tub,18,15,Bottle,Family Size,Whole,,1855.78,g,Ambient,Perishable,10.8,21.3,19.2,16.31
+107,SKU-100107,Diet Milk Carton,17,8,Bottle,Family Size,Light,,1931.04,g,Ambient,Non-Perishable,10.2,29.9,38.9,12.19
+108,SKU-100108,Sugar Free Flower Bouquet,12,2,Can,500g,,,145.45,G,Ambient,Non-Perishable,8.6,32.8,9.3,2.32
+109,SKU-100109,Diet Chicken Breast,26,24,Tub,Twin Pack,Skimmed,,1572.87,kg,Refrigerated,Perishable,5.8,7.3,36.6,13.58
+110,SKU-100110,Whole Grain Ground Beef,,30,Bottle,Family Size,,Lactose Free,301.14,gr,Refrigerated,Perishable,18.4,19.9,17.4,27.29
+111,SKU-100111,Light Chicken Breast,,40,Carton,Family Size,Light,Lactose Free,586.21,gr,Frozen,Non-Perishable,7.1,14.8,9.8,
+112,SKU-100112,Deluxe Bread Loaf,2,25,Tub,350ml,Non-Fat,,1775.07,gr,Refrigerated,Long Life,22.6,18.6,11.3,9.91
+113,SKU-100113,Sugar Free Yogurt,31,34,Box,1kg,Whole,Gluten Free,477.09,g,Ambient,Long Life,13.4,23.7,32.7,22.24
+114,SKU-100114,Diet Chips Bag,25,23,Bag,Family Size,Whole,,1539.9,Grams,Frozen,Long Life,17.6,25.7,29.6,10.87
+115,SKU-100115,Family Size Chips Bag,32,35,Box,Family Size,Non-Fat,Sugar Free,1156.92,g,Ambient,Perishable,26.1,5.7,21.7,10.29
+116,SKU-100116,Family Size Ice Cream Tub,21,4,Bottle,Family Size,,Gluten Free,1247.56,g,Frozen,Non-Perishable,38.6,18.1,38.0,12.17
+117,SKU-100117,Sugar Free Ice Cream Tub,11,28,Tub,500g,Light,Gluten Free,247.01,kg,Frozen,Long Life,32.5,12.8,25.6,5.67
+118,SKU-100118,Sugar Free Chicken Breast,1,37,Can,1kg,Skimmed,Gluten Free,648.31,kg,Refrigerated,Long Life,12.7,24.8,37.8,4.65
+119,SKU-100119,Diet Frozen Pizza,11,41,Bottle,Twin Pack,Light,Lactose Free,1503.42,g,Refrigerated,Perishable,13.7,7.4,14.0,3.69
+120,SKU-100120,Original Milk Carton,11,27,Can,500g,Light,,52.5,gr,Ambient,Non-Perishable,32.6,25.2,31.5,7.15
+121,SKU-100121,Classic Vitamin C Tablets,,17,Bottle,Single,Light,Gluten Free,930.01,gr,Ambient,Long Life,7.6,38.0,39.2,10.47
+122,SKU-100122,Light Cereal,11,39,Can,Family Size,Skimmed,Sugar Free,1971.29,Grams,Ambient,Perishable,19.3,24.4,37.4,16.43
+123,SKU-100123,Sugar Free Bread Loaf,,26,Carton,1kg,Non-Fat,Gluten Free,1338.17,g,Refrigerated,Perishable,20.0,15.3,28.2,18.21
+124,SKU-100124,Classic Bananas,19,6,Can,Single,Light,Lactose Free,439.37,gr,Refrigerated,Long Life,14.3,27.5,18.6,11.45
+125,SKU-100125,Family Size Milk Carton,,29,Can,350ml,Whole,Vegan,793.82,kg,Ambient,Perishable,31.3,28.4,8.0,10.64
+126,SKU-100126,Fresh Bread Loaf,25,34,Can,1kg,Non-Fat,,1105.83,G,Refrigerated,Non-Perishable,7.8,36.6,30.0,15.31
+127,SKU-100127,Fresh Coffee Bag,29,12,Bag,Family Size,Whole,Gluten Free,1805.89,g,Refrigerated,Perishable,39.6,20.2,39.9,19.0
+128,SKU-100128,Sugar Free Ice Cream Tub,5,6,Can,1kg,Non-Fat,,1676.51,Grams,Refrigerated,Long Life,21.0,35.6,32.5,18.88
+129,SKU-100129,Original Ground Beef,10,37,Carton,1kg,Skimmed,Sugar Free,1069.0,kg,Ambient,Non-Perishable,35.4,35.8,35.7,8.29
+130,SKU-100130,Fresh Coffee Bag,12,18,Can,Family Size,,,1326.84,gr,Ambient,Non-Perishable,36.1,16.6,13.3,22.5
+131,SKU-100131,Whole Grain Cereal,20,20,Box,500g,Skimmed,Gluten Free,-1845.63,G,Refrigerated,Long Life,20.5,33.9,14.4,12.79
+132,SKU-100132,Diet Milk Carton,27,32,Carton,350ml,Skimmed,,1308.83,G,Ambient,Non-Perishable,29.8,19.1,32.3,15.97
+133,SKU-100133,Family Size Bananas,13,4,Bag,Single,Non-Fat,Sugar Free,1158.91,Grams,Frozen,Perishable,14.6,33.8,22.7,19.24
+134,SKU-100134,Classic Bread Loaf,29,12,Can,1kg,,Vegan,291.55,Grams,Ambient,Non-Perishable,31.2,29.1,15.0,11.9
+135,SKU-100135,Fresh Bananas,15,44,Bag,350ml,Non-Fat,,367.67,g,Frozen,Perishable,21.6,9.6,11.1,24.13
+136,SKU-100136,Fresh Vitamin C Tablets,18,28,Can,350ml,Non-Fat,Vegan,486.35,G,Refrigerated,Non-Perishable,28.7,33.9,18.9,3.52
+137,SKU-100137,Whole Grain Cookies Pack,19,20,Tub,Single,Non-Fat,Sugar Free,1047.45,Grams,Refrigerated,Long Life,16.4,14.7,28.0,28.59
+138,SKU-100138,Diet Chicken Breast,16,4,Carton,500g,Light,Gluten Free,1320.36,g,Frozen,Non-Perishable,39.9,14.1,19.6,11.95
+139,SKU-100139,Fresh Bananas,15,44,Carton,Twin Pack,Non-Fat,Vegan,118.87,kg,Refrigerated,Perishable,34.4,35.7,11.3,3.38
+140,SKU-100140,Sugar Free Cookies Pack,12,44,Box,Twin Pack,Skimmed,Gluten Free,299.49,Grams,Ambient,Long Life,35.5,19.7,36.0,11.46
+141,SKU-100141,Light Ground Beef,5,31,Bag,1kg,Skimmed,Lactose Free,1191.86,kg,Refrigerated,Non-Perishable,6.9,34.9,9.8,6.41
+142,SKU-100142,Fresh Milk Carton,12,6,Can,350ml,Whole,Vegan,847.92,g,Ambient,Non-Perishable,14.6,31.6,10.9,23.05
+143,SKU-100143,Organic Chicken Breast,28,26,Can,500g,Non-Fat,Sugar Free,1004.68,g,Frozen,Perishable,30.6,38.3,36.2,22.83
+144,SKU-100144,Classic Cereal,16,15,Tub,350ml,Light,Gluten Free,1085.52,g,Refrigerated,Long Life,25.6,10.8,33.8,9.3
+145,SKU-100145,Deluxe Coffee Bag,28,44,Bag,350ml,Non-Fat,Vegan,617.11,G,Ambient,Non-Perishable,5.7,12.9,39.5,6.73
+146,SKU-100146,Deluxe Apples,3,25,Tub,350ml,,,92.73,g,Frozen,Perishable,28.2,27.9,5.7,20.85
+147,SKU-100147,Original Ground Beef,31,10,Bag,Twin Pack,Skimmed,Vegan,862.71,gr,Frozen,Perishable,28.2,14.4,26.2,4.55
+148,SKU-100148,Organic Rice Bag,8,19,Bottle,Single,Non-Fat,Gluten Free,1669.77,kg,Ambient,Non-Perishable,34.1,39.1,17.5,12.59
+149,SKU-100149,Deluxe Pasta Box,31,22,Bag,Single,Skimmed,Sugar Free,362.73,g,Frozen,Long Life,22.3,38.2,32.3,2.71
+150,SKU-100150,Sugar Free Bread Loaf,19,17,Can,Single,Skimmed,Gluten Free,1460.97,g,Refrigerated,Non-Perishable,33.1,15.9,30.8,3.3
+151,SKU-100151,Classic Cereal,11,9999,Box,500g,,Vegan,1528.5,g,Refrigerated,Non-Perishable,11.4,19.0,38.7,8.52
+152,SKU-100152,Light Soda Pack,11,8,Bag,Twin Pack,Skimmed,Gluten Free,802.15,g,Refrigerated,Long Life,21.9,24.9,20.3,18.53
+153,SKU-100153,Fresh Cereal,9,31,Can,Single,Non-Fat,Lactose Free,1569.37,g,Ambient,Non-Perishable,27.9,5.4,35.4,15.98
+154,SKU-100154,Fresh Bread Loaf,22,34,Carton,Twin Pack,,Sugar Free,1500.07,gr,Frozen,Long Life,13.7,17.1,28.7,11.85
+155,SKU-100155,Deluxe Coffee Bag,,42,Bag,1kg,Non-Fat,Lactose Free,1686.11,G,Ambient,Non-Perishable,16.2,16.6,14.7,15.45
+156,SKU-100156,Original Canned Corn,6,30,Can,1kg,Non-Fat,Sugar Free,1123.47,gr,Refrigerated,Non-Perishable,9.2,22.4,27.9,3.53
+157,SKU-100157,Deluxe Cookies Pack,,6,Carton,1kg,Light,,854.06,kg,Ambient,Long Life,28.5,38.3,17.7,2.1
+158,SKU-100158,Light Ice Cream Tub,31,43,Box,Twin Pack,Non-Fat,Sugar Free,484.69,g,Frozen,Perishable,5.1,17.4,27.2,24.1
+159,SKU-100159,Whole Grain Ground Beef,,11,Can,Family Size,Non-Fat,Sugar Free,1118.0,Grams,Frozen,Perishable,11.6,37.6,18.8,13.98
+160,SKU-100160,Whole Grain Ground Beef,3,41,Tub,1kg,Skimmed,Lactose Free,1573.77,gr,Frozen,Long Life,38.5,9.7,22.5,16.15
+161,SKU-100161,Original Chips Bag,12,38,Bag,Twin Pack,Whole,Sugar Free,144.71,gr,Frozen,Long Life,26.2,16.3,35.8,12.85
+162,SKU-100162,Diet Flower Bouquet,22,19,Can,Family Size,Whole,Lactose Free,1237.54,kg,Frozen,Long Life,22.9,34.5,24.2,9.76
+163,SKU-100163,Deluxe Bananas,19,44,Box,Twin Pack,Whole,Gluten Free,1486.8,kg,Frozen,Long Life,27.3,29.9,31.6,17.09
+164,SKU-100164,Original Cookies Pack,28,1,Carton,Single,Skimmed,Lactose Free,1186.47,G,Ambient,Long Life,7.0,14.3,32.5,29.51
+165,SKU-100165,Family Size Yogurt,19,14,Carton,Single,Light,Lactose Free,1382.61,g,Frozen,Long Life,30.9,35.3,31.0,17.06
+166,SKU-100166,Sugar Free Yogurt,25,27,Tub,350ml,,Sugar Free,513.31,g,Frozen,Non-Perishable,12.1,35.4,35.1,13.57
+167,SKU-100167,Whole Grain Chips Bag,13,13,Box,500g,Whole,Sugar Free,489.82,G,Ambient,Long Life,23.0,18.2,20.0,16.92
+168,SKU-100168,Fresh Flower Bouquet,,30,Tub,Family Size,Skimmed,Gluten Free,303.63,Grams,Frozen,Perishable,32.1,26.9,34.5,9.38
+169,SKU-100169,Deluxe Frozen Pizza,,21,Carton,Family Size,Whole,,1590.32,g,Frozen,Perishable,19.6,23.8,8.2,7.03
+170,SKU-100170,Whole Grain Ice Cream Tub,14,40,Carton,500g,,Sugar Free,466.04,g,Frozen,Non-Perishable,20.6,36.7,26.5,18.82
+171,SKU-100171,Whole Grain Canned Corn,8,25,Box,1kg,Light,Sugar Free,1919.85,kg,Refrigerated,Long Life,33.1,20.6,6.5,27.0
+172,SKU-100172,Deluxe Cheese Block,11,35,Carton,Single,Skimmed,Gluten Free,425.4,G,Frozen,Non-Perishable,34.2,12.2,34.0,26.42
+173,SKU-100173,Original Cheese Block,10,2,Can,Twin Pack,Light,Sugar Free,1495.68,g,Ambient,Perishable,11.2,13.8,7.5,24.74
+174,SKU-100174,Original Canned Corn,26,28,Box,Single,Non-Fat,Sugar Free,1826.42,kg,Ambient,Long Life,30.2,7.2,31.1,1.84
+175,SKU-100175,Whole Grain Rice Bag,20,39,Bottle,350ml,Non-Fat,Lactose Free,1704.09,gr,Frozen,Perishable,21.6,23.7,9.8,12.03
+176,SKU-100176,Deluxe Vitamin C Tablets,10,20,Tub,Twin Pack,Light,Sugar Free,1605.09,kg,Frozen,Perishable,9.3,5.2,25.9,16.35
+177,SKU-100177,Sugar Free Bananas,23,14,Can,Twin Pack,,Gluten Free,1896.61,G,Ambient,Perishable,26.6,13.8,9.0,20.29
+178,SKU-100178,Classic Cookies Pack,5,19,Tub,Single,Light,Sugar Free,1156.22,G,Frozen,Long Life,22.1,16.6,9.5,19.84
+179,SKU-100179,Fresh Cheese Block,21,32,Can,350ml,,Vegan,245.09,kg,Ambient,Long Life,24.8,33.3,38.6,5.47
+180,SKU-100180,Diet Soda Pack,24,9,Tub,Twin Pack,Light,Lactose Free,660.77,gr,Refrigerated,Non-Perishable,32.1,22.0,8.8,19.54
+181,SKU-100181,Sugar Free Chicken Breast,13,17,Tub,Twin Pack,Skimmed,Sugar Free,209.85,g,Frozen,Long Life,6.1,25.4,19.2,
+182,SKU-100182,Deluxe Flower Bouquet,31,42,Bag,350ml,Non-Fat,Gluten Free,1817.29,kg,Frozen,Non-Perishable,9.7,22.5,8.2,11.23
+183,SKU-100183,Diet Coffee Bag,9,29,Bag,Family Size,,,70.65,G,Frozen,Long Life,21.9,17.6,12.7,14.89
+184,SKU-100184,Whole Grain Bread Loaf,,14,Carton,350ml,Non-Fat,Lactose Free,172.58,gr,Ambient,Perishable,39.3,16.3,29.6,15.88
+185,SKU-100185,Sugar Free Chips Bag,12,25,Tub,500g,Light,,1667.81,g,Frozen,Non-Perishable,18.2,36.8,23.1,10.91
+186,SKU-100186,Light Pasta Box,1,33,Bag,500g,Whole,Gluten Free,1742.05,g,Frozen,Long Life,14.8,10.3,10.5,18.26
+187,SKU-100187,Diet Soda Pack,8,31,Tub,500g,Non-Fat,Gluten Free,1643.06,kg,Ambient,Long Life,34.2,5.8,6.5,17.42
+188,SKU-100188,Deluxe Yogurt,10,4,Bag,350ml,Whole,,364.2,gr,Frozen,Long Life,27.3,35.7,30.5,24.73
+189,SKU-100189,Diet Milk Carton,31,31,Bag,Family Size,Non-Fat,,1897.15,G,Frozen,Perishable,26.8,22.9,10.9,20.72
+190,SKU-100190,Fresh Chips Bag,,25,Can,Family Size,Skimmed,Sugar Free,1848.59,G,Frozen,Long Life,29.0,33.9,26.2,5.73
+191,SKU-100191,Fresh Yogurt,8,6,Can,Twin Pack,Whole,,1808.14,kg,Ambient,Long Life,27.7,23.3,18.0,1.78
+192,SKU-100192,Diet Pasta Box,25,23,Carton,Twin Pack,,Sugar Free,1083.14,gr,Ambient,Non-Perishable,21.7,13.1,35.1,8.86
+193,SKU-100193,Original Flower Bouquet,1,37,Carton,Single,,Sugar Free,1759.69,gr,Frozen,Perishable,29.1,16.1,17.7,5.07
+194,SKU-100194,Sugar Free Flower Bouquet,28,37,Box,1kg,Light,Lactose Free,1320.57,G,Refrigerated,Long Life,32.4,21.9,18.0,16.87
+195,SKU-100195,Sugar Free Chips Bag,26,9,Tub,Single,Whole,Lactose Free,544.87,G,Ambient,Perishable,22.8,32.5,33.0,18.61
+196,SKU-100196,Classic Apples,1,6,Bag,500g,,Lactose Free,1384.9,g,Ambient,Non-Perishable,12.8,7.8,6.3,11.84
+197,SKU-100197,Fresh Rice Bag,4,12,Tub,500g,Non-Fat,Sugar Free,1969.67,G,Frozen,Long Life,15.0,6.2,26.0,15.72
+198,SKU-100198,Family Size Yogurt,1,11,Bottle,350ml,Non-Fat,Vegan,501.76,gr,Refrigerated,Long Life,12.0,5.5,29.6,27.62
+199,SKU-100199,Deluxe Chips Bag,18,15,Carton,Family Size,Non-Fat,Lactose Free,1121.71,kg,Ambient,Non-Perishable,11.1,22.7,24.6,15.34
+200,SKU-100200,Organic Rice Bag,17,29,Can,1kg,Non-Fat,Gluten Free,712.93,Grams,Refrigerated,Long Life,21.1,25.5,6.0,3.93

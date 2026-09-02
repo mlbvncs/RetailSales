@@ -1,0 +1,101 @@
+store_id,store_number,store_name,street_address,city,county,state,zip_code,manager_name,district_id,floor_plan_type,photo_processing_type,financial_service_type,selling_square_footage,total_square_footage,first_open_date,last_remodel_date
+1,STR-0001,Georgetown Store #1,620 Main St,Riverside,Greenville County,CA,87397,Barbara Jones,4,Compact,,Banking Agent,55741,62165,2021-07-09,2024-05-13
+2,STR-0002,Springfield Store #2,2715 Park Rd,Salem,Fairview County,FL,46463,Michael Moore,3,Supercenter,No,Banking Agent,49439,64093,2014-05-30,2019-11-25
+3,STR-0003,Madison Store #3,8885 Main St,Georgetown,Riverside County,NY,15695,Richard Brown,9,Express,,None,59565,68898,2013-01-19,2021-04-24
+4,STR-0004,Fairview Store #4,1407 Oak Ave,Riverside,Georgetown County,Texas,39871,Charles Miller,5,Express,,ATM,23003,38837,2020-10-20,2022-11-28
+5,STR-0005,Franklin Store #5,8851 Oak Ave,Franklin,Madison County,CA,93227,Jennifer Lopez,7,Express,,None,24679,39659,2009-09-13,2016-03-27
+6,STR-0006,Salem Store #6,6672 Elm St,Riverside,Greenville County,FL,ABCDE,Barbara Hernandez,15,Compact,,ATM,35010,53474,2023-11-27,2025-09-15
+7,STR-0007,Greenville Store #7,9297 Broadway,Fairview,Arlington County,CA,28301,Jessica Gonzalez,7,Compact,No,ATM,29363,38702,2019-06-03,2030-04-04
+8,STR-0008,Franklin Store #8,2721 Park Rd,Arlington,Riverside County,CA,24371,John Taylor,7,Express,,ATM,23087,42195,2016-01-26,2018-08-27
+9,STR-0009,Salem Store #9,1927 Elm St,Georgetown,Franklin County,FL,44973,David Moore,8,Supercenter,,None,55190,72492,04/05/2005,2008-05-17
+10,STR-0010,Clinton Store #10,3358 Oak Ave,Salem,Franklin County,TX,93748,Thomas Garcia,9,Compact,Yes,None,39558,58347,2016-05-21,2019-04-27
+11,STR-0011,Greenville Store #11,9395 Main St,Riverside,Madison County,TX,17592,Jessica Smith,14,Supercenter,,Banking Agent,40153,49076,2007-07-06,2016-03-13
+12,STR-0012,Georgetown Store #12,3570 Broadway,Greenville,Fairview County,CA,89507,Jessica Moore,7,Compact,,ATM,54581,73874,2008-09-14,2015-03-13
+13,STR-0013,Springfield Store #13,9738 Broadway,Greenville,Arlington County,IL,54313,Thomas Anderson,4,Supercenter,Yes,None,-34725,40774,2007-09-19,2013-10-27
+14,STR-0014,Fairview Store #14,8053 Oak Ave,Clinton,Franklin County,NY,41195,Barbara Williams,12,Compact,,ATM,24643,38066,2005-09-15,2013-08-30
+15,STR-0015,Salem Store #15,7039 Park Rd,Madison,Springfield County,CA,66498,Jessica Wilson,11,Compact,,Banking Agent,26352,42148,2009-04-09,2011-12-07
+16,STR-0016,Clinton Store #16,7450 Oak Ave,Georgetown,Franklin County,NY,34931-6085,Richard Hernandez,5,Express,Yes,Banking Agent,36295,44434,2022-12-16,2025-12-15
+17,STR-0017,Franklin Store #17,6758 Park Rd,Madison,Greenville County,IL,40982,Sarah Brown,14,Express,Yes,Banking Agent,20967,27495,2006-02-19,2018-10-22
+18,STR-0018,Madison Store #18,2636 Oak Ave,Fairview,Greenville County,IL,82845,James Gonzalez,1,Compact,,None,38694,50624,2010-12-13,2021-09-13
+19,STR-0019,Franklin Store #19,1031 Broadway,Riverside,Franklin County,NY,79615,William Johnson,2,Compact,Yes,None,51246,64484,2006-02-15,2019-10-10
+20,STR-0020,Arlington Store #20,1443 Park Rd,Arlington,Arlington County,CA,15209,Richard Brown,9,Express,No,Banking Agent,57940,72680,2017-10-11,2023-11-05
+21,STR-0021,Riverside Store #21,252 Park Rd,Arlington,Arlington County,TX,51441,Barbara Rodriguez,2,Supercenter,,Banking Agent,39660,52151,2013-11-17,2017-05-12
+22,STR-0022,Franklin Store #22,7279 Broadway,Fairview,Arlington County,FL,47353,David Jones,13,Compact,,Banking Agent,36009,47063,2012-10-30,2014-12-02
+23,STR-0023,Clinton Store #23,2646 Elm St,Fairview,Arlington County,Florida,24029,Elizabeth Brown,4,Compact,No,Banking Agent,27564,47141,2008-01-06,2014-06-29
+24,STR-0024,Fairview Store #24,822 Main St,Salem,Franklin County,TX,65518,Thomas Thomas,11,Express,Yes,None,26048,41440,2010-08-20,2012-04-27
+25,STR-0025,Clinton Store #25,690 Elm St,Arlington,Clinton County,IL,29536,Sarah Wilson,3,Express,Yes,Banking Agent,27331,33563,2017-07-31,2018-05-06
+26,STR-0026,Salem Store #26,9273 Park Rd,Arlington,Franklin County,TX,23473,Jennifer Johnson,15,Supercenter,Yes,Banking Agent,36353,52280,2013-01-10,2018-04-14
+27,STR-0027,Greenville Store #27,4471 Oak Ave,Riverside,Georgetown County,IL,97806,James Garcia,14,Supercenter,No,Banking Agent,46982,65125,2021-07-09,2029-07-08
+28,STR-0028,Greenville Store #28,6628 Elm St,Fairview,Riverside County,CA,96511,Joseph Lopez,13,Express,No,None,34609,39996,2011-11-06,2017-07-01
+29,STR-0029,Franklin Store #29,9612 Elm St,Springfield,Riverside County,FL,44237,Richard Moore,10,Express,No,None,27559,46928,2012-06-05,2013-08-05
+30,STR-0030,Greenville Store #30,4273 Main St,Georgetown,Springfield County,TX,85574,Susan Martin,9,Compact,,None,45244,64981,2016-06-21,2019-08-12
+31,STR-0031,Fairview Store #31,8408 Elm St,Georgetown,Salem County,CA,26334,Jennifer Wilson,9999,Compact,No,None,40572,56440,2006-07-28,2014-07-10
+32,STR-0032,Fairview Store #32,6753 Broadway,Springfield,Fairview County,CA,84593,Michael Wilson,5,Supercenter,No,None,31405,46489,2019-12-01,2028-12-18
+33,STR-0033,Franklin Store #33,1489 Elm St,Clinton,Arlington County,FL,72021,William Anderson,6,Supercenter,Yes,None,34005,47380,2014-11-29,2025-05-17
+34,STR-0034,Arlington Store #34,1293 Park Rd,Georgetown,Arlington County,TX,72277,Barbara Miller,4,Compact,,ATM,23028,32039,04/22/2008,2009-05-27
+35,STR-0035,Greenville Store #35,2981 Broadway,Madison,Springfield County,IL,65724,Richard Davis,9,Supercenter,Yes,ATM,26985,44738,2008-04-23,2008-12-24
+36,STR-0036,Georgetown Store #36,9076 Park Rd,Franklin,Madison County,CA,76162,Joseph Taylor,8,Express,Yes,None,49004,64041,2017-07-15,2025-03-14
+37,STR-0037,Fairview Store #37,3941 Elm St,Salem,Salem County,TX,20155,Thomas Thomas,15,Compact,Yes,Banking Agent,37996,50202,2019-01-22,2024-12-20
+38,STR-0038,Georgetown Store #38,5521 Broadway,Madison,Georgetown County,CA,64377,Barbara Gonzalez,1,Supercenter,No,ATM,34021,40073,2020-07-25,2024-07-15
+39,STR-0039,Georgetown Store #39,6965 Broadway,Clinton,Arlington County,FL,49139,James Jackson,15,Supercenter,No,Banking Agent,20386,31149,2013-07-14,2024-10-11
+40,STR-0040,Georgetown Store #40,2804 Park Rd,Franklin,Arlington County,TX,99016,Susan Thomas,9,Supercenter,No,None,42028,57986,2005-08-26,2014-12-02
+41,STR-0041,Franklin Store #41,923 Elm St,Georgetown,Salem County,FL,70515-8565,James Williams,4,Express,No,ATM,28893,48095,2019-06-02,2029-07-30
+42,STR-0042,Springfield Store #42,5833 Oak Ave,Riverside,Springfield County,IL,80702,David Wilson,13,Supercenter,Yes,Banking Agent,50822,56139,2010-08-29,2013-01-15
+43,STR-0043,Arlington Store #43,3671 Park Rd,Fairview,Salem County,NY,24993,Karen Jones,3,Compact,,None,51035,67003,2010-05-09,2013-09-24
+44,STR-0044,Georgetown Store #44,6598 Oak Ave,Riverside,Arlington County,NY,85470,Patricia Martinez,12,Compact,Yes,Banking Agent,21682,31793,2007-06-05,2020-12-13
+45,STR-0045,Georgetown Store #45,6171 Main St,Clinton,Salem County,TX,79827,Karen Brown,1,Express,No,Banking Agent,22691,33379,2022-11-10,2036-02-06
+46,STR-0046,Fairview Store #46,8917 Park Rd,Madison,Georgetown County,IL,78386,Jennifer Anderson,14,Compact,,ATM,48540,45540,2020-11-12,2024-11-04
+47,STR-0047,Arlington Store #47,6309 Elm St,Springfield,Madison County,TX,70910,Barbara Williams,14,Express,Yes,ATM,35981,53276,2011-04-04,2021-11-29
+48,STR-0048,Clinton Store #48,266 Broadway,Greenville,Riverside County,CA,46211,Jennifer Rodriguez,4,Compact,No,ATM,59069,75557,2012-08-20,2019-06-15
+49,STR-0049,Riverside Store #49,4920 Oak Ave,Georgetown,Greenville County,FL,12260,Barbara Thomas,5,Compact,,ATM,49371,67362,2019-06-28,2031-01-16
+50,STR-0050,Madison Store #50,4538 Elm St,Fairview,Greenville County,IL,56112,Sarah Taylor,2,Compact,Yes,ATM,56070,66489,2012-09-17,2022-10-20
+51,STR-0011,Clinton Store #51,9877 Elm St,Riverside,Greenville County,NY,87278,Sarah Garcia,5,Supercenter,No,Banking Agent,51732,61262,2009-04-19,2014-09-12
+52,STR-0052,Fairview Store #52,2168 Park Rd,Riverside,Springfield County,TX,82529,James Moore,10,Express,No,ATM,22982,28875,2007-11-03,2014-07-16
+53,STR-0053,Georgetown Store #53,8156 Main St,Arlington,Springfield County,IL,18564,William Garcia,3,Supercenter,,ATM,51308,58177,2006-02-25,2012-05-12
+54,STR-0054,Greenville Store #54,8661 Park Rd,Madison,Madison County,NY,91057,Barbara Brown,5,Compact,No,ATM,59735,74501,2017-07-08,2027-05-26
+55,STR-0055,Fairview Store #55,1430 Oak Ave,Greenville,Franklin County,FL,37659,Karen Johnson,9,Supercenter,Yes,Banking Agent,33617,48865,2018-09-04,2021-06-12
+56,STR-0056,Fairview Store #56,7538 Main St,Greenville,Fairview County,IL,47762,Joseph Martin,13,Compact,,None,22139,30931,2015-07-17,2022-08-14
+57,STR-0057,Franklin Store #57,1269 Main St,Franklin,Fairview County,CA,44816,Susan Brown,10,Compact,,ATM,29764,49647,2017-03-20,2022-10-21
+58,STR-0058,Clinton Store #58,8190 Park Rd,Riverside,Arlington County,IL,75597,Linda Anderson,1,Express,,ATM,46378,55838,2020-06-12,2027-10-25
+59,STR-0059,Fairview Store #59,9541 Main St,Franklin,Madison County,FL,12719,David Smith,9,Compact,No,ATM,57696,72315,2007-01-19,2012-09-24
+60,STR-0060,Georgetown Store #60,5560 Elm St,Riverside,Franklin County,CA,55607,Charles Wilson,6,Express,,ATM,25979,38679,2019-03-29,2030-10-25
+61,STR-0061,Salem Store #61,1999 Park Rd,Clinton,Springfield County,TX,43082,Richard Moore,11,Compact,No,ATM,-25771,35924,2005-10-28,2016-07-27
+62,STR-0062,Greenville Store #62,4475 Broadway,Franklin,Fairview County,NY,16764,Michael Taylor,8,Compact,No,Banking Agent,48969,66420,2013-02-11,2024-11-03
+63,STR-0063,Clinton Store #63,6784 Main St,Greenville,Riverside County,NY,11792,Karen Davis,8,Supercenter,,Banking Agent,40365,54389,2020-12-02,2025-01-07
+64,STR-0064,Madison Store #64,4093 Park Rd,Clinton,Franklin County,IL,73242,Elizabeth Taylor,7,Supercenter,,None,47229,65905,2020-10-27,2027-07-02
+65,STR-0065,Fairview Store #65,142 Elm St,Fairview,Arlington County,CA,76550,Robert Rodriguez,10,Compact,No,Banking Agent,42274,60179,2022-05-01,2032-03-08
+66,STR-0066,Georgetown Store #66,7560 Elm St,Greenville,Greenville County,IL,81228,Sarah Thomas,10,Express,Yes,ATM,56170,73668,2012-09-28,2020-09-29
+67,STR-0067,Franklin Store #67,8215 Main St,Franklin,Clinton County,NY,95461,William Thomas,10,Express,Yes,ATM,45302,61175,2020-10-26,2029-12-01
+68,STR-0068,Franklin Store #68,1325 Park Rd,Fairview,Salem County,New York,95823,Thomas Anderson,10,Compact,No,None,46868,66137,2005-05-06,2009-02-14
+69,STR-0069,Springfield Store #69,1221 Oak Ave,Fairview,Greenville County,NY,80912,William Moore,12,Supercenter,No,Banking Agent,51978,71271,2013-07-11,2021-03-05
+70,STR-0070,Springfield Store #70,4906 Elm St,Salem,Georgetown County,NY,52516,Joseph Garcia,3,Supercenter,,ATM,21897,27650,2020-07-26,2027-10-31
+71,STR-0071,Arlington Store #71,4045 Park Rd,Arlington,Franklin County,FL,60140,Patricia Garcia,4,Express,,ATM,59943,79210,2008-12-05,2001-01-01
+72,STR-0072,Franklin Store #72,1310 Park Rd,Salem,Arlington County,IL,81643,David Smith,5,Compact,No,None,38850,54951,2023-01-18,2034-01-11
+73,STR-0073,Georgetown Store #73,9470 Elm St,Arlington,Fairview County,TX,41091,Joseph Martinez,12,Express,Yes,None,51667,58414,2009-06-20,2018-08-23
+74,STR-0074,Fairview Store #74,3870 Broadway,Salem,Greenville County,IL,75107,David Smith,11,Supercenter,,ATM,59741,76949,2017-09-11,2019-05-05
+75,STR-0075,Franklin Store #75,1576 Elm St,Salem,Georgetown County,CA,57823,Linda Johnson,3,Supercenter,Yes,None,22186,36681,2011-12-06,2022-05-13
+76,STR-0076,Fairview Store #76,5649 Main St,Madison,Riverside County,TX,73156,Thomas Taylor,3,Supercenter,,None,36840,56815,2011-02-11,2015-05-08
+77,STR-0077,Riverside Store #77,7551 Elm St,Fairview,Arlington County,IL,80329,Sarah Lopez,7,Compact,No,Banking Agent,20912,30244,2007-01-10,2016-06-03
+78,STR-0078,Greenville Store #78,1135 Park Rd,Fairview,Georgetown County,CA,89964,Jessica Smith,9999,Supercenter,Yes,Banking Agent,41496,61491,2018-11-24,2032-01-14
+79,STR-0079,Madison Store #79,6178 Broadway,Georgetown,Arlington County,TX,60940,Jessica Brown,12,Compact,Yes,ATM,55228,62450,2007-03-08,2012-12-29
+80,STR-0080,Greenville Store #80,7364 Park Rd,Greenville,Salem County,NY,58566,Jessica Martin,2,Compact,No,None,22144,38453,2014-02-26,2020-12-22
+81,STR-0081,Riverside Store #81,3575 Broadway,Springfield,Springfield County,TX,69600,Maria Gonzalez,13,Express,Yes,Banking Agent,28005,46899,2011-03-11,2015-12-29
+82,STR-0082,Greenville Store #82,5483 Oak Ave,Arlington,Springfield County,FL,38305,Michael Williams,5,Supercenter,Yes,None,33576,48183,2023-08-12,2036-08-03
+83,STR-0083,Greenville Store #83,9747 Elm St,Springfield,Franklin County,TX,56955,Patricia Brown,5,Supercenter,Yes,None,28637,33880,2019-10-30,2020-12-14
+84,STR-0084,Clinton Store #84,9826 Main St,Madison,Clinton County,IL,57453,Thomas Brown,4,Compact,Yes,None,51211,63555,2021-09-22,2023-09-12
+85,STR-0085,Georgetown Store #85,1868 Park Rd,Madison,Riverside County,FL,62640,Elizabeth Anderson,15,Supercenter,No,None,23986,36833,2019-06-07,2020-09-04
+86,STR-0086,Georgetown Store #86,9887 Broadway,Fairview,Madison County,CA,52622,Robert Jones,9,Compact,No,Banking Agent,55937,72604,2011-03-03,2024-11-04
+87,STR-0087,Madison Store #87,6632 Park Rd,Riverside,Salem County,NY,54424,Sarah Miller,7,Express,,ATM,34974,46753,2014-08-25,2025-04-28
+88,STR-0088,Riverside Store #88,6205 Oak Ave,Clinton,Springfield County,TX,66606,John Thomas,10,Compact,,ATM,25594,32121,2006-07-04,2009-02-05
+89,STR-0089,Fairview Store #89,5861 Main St,Arlington,Clinton County,NY,ABCDE,Susan Lopez,4,Supercenter,,ATM,23371,33083,2019-12-04,2029-12-15
+90,STR-0090,Arlington Store #90,3805 Park Rd,Clinton,Arlington County,CA,46512,Linda Lopez,10,Compact,,None,44088,50970,2023-12-18,2036-12-25
+91,STR-0091,Salem Store #91,5851 Main St,Franklin,Franklin County,NY,50499,Karen Rodriguez,10,Compact,No,Banking Agent,37909,54422,2005-08-26,2010-03-30
+92,STR-0092,Madison Store #92,5685 Oak Ave,Salem,Fairview County,CA,65028,James Williams,12,Express,,None,34098,45261,09/26/2021,2034-03-07
+93,STR-0093,Georgetown Store #93,8057 Broadway,Madison,Georgetown County,NY,68079,Maria Jones,5,Supercenter,,Banking Agent,25346,34804,2008-07-13,2010-03-12
+94,STR-0094,Springfield Store #94,3712 Park Rd,Arlington,Springfield County,TX,50425,Susan Brown,1,Supercenter,No,Banking Agent,54533,70463,2011-05-10,2022-10-25
+95,STR-0095,Franklin Store #95,2216 Park Rd,Clinton,Greenville County,CA,66446,David Martinez,9,Compact,,ATM,20506,33655,2012-05-11,2015-08-06
+96,STR-0096,Arlington Store #96,7133 Broadway,Georgetown,Georgetown County,NY,51033,Richard Johnson,5,Supercenter,No,Banking Agent,50130,56405,2014-10-14,2015-10-02
+97,STR-0097,Greenville Store #97,7238 Broadway,Georgetown,Clinton County,TX,23875,Patricia Martin,2,Express,No,None,25775,37930,2015-04-28,2023-12-26
+98,STR-0098,Riverside Store #98,8793 Broadway,Greenville,Salem County,TX,92998,Barbara Hernandez,6,Compact,,Banking Agent,25005,38368,2022-06-23,2026-10-17
+99,STR-0099,Riverside Store #99,3002 Park Rd,Madison,Arlington County,CA,30036,Linda Jones,13,Compact,No,None,31370,46239,2010-09-28,2015-09-18
+100,STR-0100,Madison Store #100,7345 Elm St,Fairview,Arlington County,FL,18950,Karen Hernandez,1,Express,,Banking Agent,29893,42098,2019-01-26,2026-09-15

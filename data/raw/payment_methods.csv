@@ -1,0 +1,8 @@
+payment_method_id,description,method_group
+1,Cash,Cash
+2,Visa Credit Card,Credit
+3,Mastercard Credit Card,Credit
+4,Visa Debit Card,Electronic
+5,Pix,Electronic
+6,Store Gift Card,Other
+7,Cash,Other

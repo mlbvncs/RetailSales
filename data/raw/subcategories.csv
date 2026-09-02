@@ -1,0 +1,45 @@
+subcategory_id,subcategory_description,category_id
+1,Breakfast Cereals - Regular,1
+2,Breakfast Cereals - Regular,1
+3,Snacks - Premium,2
+4,Snacks - Organic,2
+5,Canned Goods - Value Pack,3
+6, - Diet,9999
+7,Frozen Meals - Diet,5
+8,Frozen Meals - Low Fat,5
+9,Frozen Meals - Low Fat,5
+10,Ice Cream - Diet,6
+11,Ice Cream - Premium,6
+12,Ice Cream - Value Pack,6
+13,,7
+14,Milk - Value Pack,8
+15,Milk - Family Size,8
+16,Milk - Organic,8
+17,Yogurt - Low Fat,9
+18,Yogurt - Diet,9
+19,Yogurt - Family Size,9
+20,Cheese - Low Fat,10
+21,Beef - Premium,11
+22,Poultry - Value Pack,12
+23,Poultry - Regular,12
+24,Pork - Value Pack,13
+25,Pork - Family Size,13
+26,Pork - Regular,13
+27,Fruits - Value Pack,14
+28,Vegetables - Low Fat,15
+29,Vegetables - Diet,15
+30,Bread - Diet,16
+31,,16
+32,Bread - Organic,16
+33,Pastries - Organic,17
+34,Pastries - Low Fat,17
+35,Fresh Flowers - Premium,18
+36,Fresh Flowers - Organic,18
+37,Arrangements - Diet,19
+38,Arrangements - Regular,19
+39,Arrangements - Premium,19
+40,Personal Care - Value Pack,20
+41,Personal Care - Organic,20
+42,Personal Care - Regular,20
+43,Vitamins - Regular,21
+44,Vitamins - Diet,21
