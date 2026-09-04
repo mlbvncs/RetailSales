@@ -6,3 +6,71 @@ sources:
     schema: raw
     tables:
       - name: brands
+      - name: departments
+
+models:
+  - name: staging_brands
+    description: "Cleaned and deduplicated brands table."
+    columns:
+      - name: brand_id
+        description: "Unique brand identifier, positive integer."
+        tests:
+          - not_null
+          - unique
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 1
+                inclusive: true
+
+      - name: brand_description
+        description: "Brand description formatted in Title Case, without leading, trailing, or duplicate spaces."
+        tests:
+          - not_null
+          - dbt_utils.not_empty_string
+          - unique
+          - dbt_utils.expression_is_true:
+              arguments:
+                expression: "!~ '(^\\s)|(\\s$)|(\\s{2,})'"
+          - dbt_utils.expression_is_true:
+              arguments:
+                expression: "~ '^[A-ZÀ-Ý][^ ]*( [A-ZÀ-Ý][^ ]*)*$'"
+                
+  - name: staging_departments
+    description: "Cleaned and deduplicated departments table."
+    tests:
+      - dbt_utils.equality:
+          arguments:
+            compare_model: ref('staging_departments')
+            compare_columns:
+              - department_id
+              - department_number
+
+    columns:
+      - name: department_id
+        description: "Primary key for department"
+        tests:
+          - not_null
+          - unique
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 1
+                inclusive: true
+
+      - name: department_number
+        description: "Department number equivalent to department_id"
+        tests:
+          - not_null
+          - unique
+
+      - name: department_description
+        description: "Standardized department description in Title Case (including '/' separators)."
+        tests:
+          - not_null
+          - dbt_utils.not_empty_string
+          - unique
+          - dbt_utils.expression_is_true:
+              arguments:
+                expression: "!~ '(^\\s)|(\\s$)|(\\s{2,})'"
+          - dbt_utils.expression_is_true:
+              arguments:
+                expression: "~ '^[A-ZÀ-Ý][^ /]*([ /][A-ZÀ-Ý][^ /]*)*$'"
