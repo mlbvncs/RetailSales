@@ -53,7 +53,7 @@ deduplicated_brand_description AS (
         *,
         ROW_NUMBER() OVER (
             PARTITION BY LOWER(brand_description)
-            ORDER BY brand_id ASC
+            ORDER BY source_row_num ASC
         ) AS description_rank
     FROM deduplicated_brand_id
     WHERE id_rank = 1

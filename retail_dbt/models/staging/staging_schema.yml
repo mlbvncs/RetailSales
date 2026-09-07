@@ -2,15 +2,35 @@ version: 2
 
 sources:
   - name: raw
-    database: retailsales
     schema: raw
+    description: "Raw data layer - tables loaded directly from CSVs"
     tables:
       - name: brands
+        description: "Raw brands data from CSV"
+      - name: categories
+        description: "Raw categories data from CSV"
       - name: departments
+        description: "Raw departments data from CSV"
+      - name: employees
+        description: "Raw employees data from CSV"
+      - name: payment_methods
+        description: "Raw payment methods data from CSV"
+      - name: pos_transaction_items
+        description: "Raw POS transaction items data from CSV"
+      - name: pos_transactions
+        description: "Raw POS transactions data from CSV"
+      - name: products
+        description: "Raw products data from CSV"
+      - name: promotions
+        description: "Raw promotions data from CSV"
+      - name: regions
+        description: "Raw regions data from CSV"
+      - name: stores
+        description: "Raw stores data from CSV"
 
 models:
   - name: staging_brands
-    description: "Cleaned and deduplicated brands table."
+    description: "Cleaned brands table."
     columns:
       - name: brand_id
         description: "Unique brand identifier, positive integer."
@@ -36,7 +56,7 @@ models:
                 expression: "~ '^[A-ZÀ-Ý][^ ]*( [A-ZÀ-Ý][^ ]*)*$'"
                 
   - name: staging_departments
-    description: "Cleaned and deduplicated departments table."
+    description: "Cleaned departments table."
     tests:
       - dbt_utils.equality:
           arguments:
@@ -74,3 +94,26 @@ models:
           - dbt_utils.expression_is_true:
               arguments:
                 expression: "~ '^[A-ZÀ-Ý][^ /]*([ /][A-ZÀ-Ý][^ /]*)*$'"
+
+  - name: staging_regions
+    description: "Cleaned regions table."
+    columns:
+      - name: region_id
+        description: "Unique region identifier, positive integer."
+        tests:
+          - not_null
+          - unique
+          - dbt_utils.accepted_range:
+              min_value: 1
+              inclusive: true
+        
+      - name: region_name
+        description: "Region name formatted in Title Case."
+        tests:
+          - not_null
+          - dbt_utils.not_empty_string
+          - unique
+          - dbt_utils.expression_is_true:
+              expression: "!~ '(^\\s)|(\\s$)'"
+          - dbt_utils.expression_is_true:
+              expression: "~ '^[A-ZÀ-Ý][^ /]*$'"
